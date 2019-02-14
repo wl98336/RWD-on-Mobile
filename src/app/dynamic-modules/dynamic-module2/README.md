@@ -12,3 +12,4 @@ commit from parent project
 =======
 6th commit from subproject
 >>>>>>> 153f7998daaa40629cf0c291279014c4e05f2484
+7rd commit from sub project
